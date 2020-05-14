@@ -24,7 +24,7 @@ Random verso of Bible on English (NIV Version) and Indonesia (tb/bis)
 
 - ### URL Query
 
-  `ver = 'tb' (default) | 'bis'`]
+  `ver = 'tb' (default) | 'bis'`
 
 - ### Success Response
 
