@@ -2,7 +2,7 @@
 Restful Api Indonesian Bible build on NodeJs
 
 ## Authors
-- Priambodo Kurniawan
+- [Priambodo Kurniawan](http://priambodokurniawan.com/)
 
 ## Source
 - [Sabda Labs](https://labs.sabda.org/API)
@@ -41,9 +41,9 @@ Random verso of Bible on English (NIV Version) and Indonesia (tb/bis)
             version: "NIV",
             verseurl: "http://www.ourmanna.com/"
           },
-            notice: "Powered by OurManna.com"
-          }
-        },
+          notice: "Powered by OurManna.com"
+        }
+      },
       id: {
         verse: {
           details: {
@@ -52,8 +52,8 @@ Random verso of Bible on English (NIV Version) and Indonesia (tb/bis)
             version: "bis",
             verseurl: "https://alkitab.sabda.org/"
           },
-            notice: "Powered by Sabda Labs"
-          }
+          notice: "Powered by Sabda Labs"
         }
       }
+    }
   ```
